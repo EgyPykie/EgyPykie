@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 20s<br>📚 I'm currently learning Rust<br>🎯 Goals: Guru<br>🎲 Fun fact: English illiterate</p>
+<p align="left">✨ Creating bugs since 20s<br>📚 I'm currently learning Rust<br>🎯 Goals: Guru<br>🎲 Fun fact: I like Dags!</p>
 
 ###
 
